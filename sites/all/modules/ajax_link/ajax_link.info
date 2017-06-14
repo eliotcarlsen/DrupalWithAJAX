@@ -1,0 +1,6 @@
+name = My Ajax Date
+description = Display Date.
+package = Epicodus Examples
+core = 7.x
+scripts[] = ajax_link.js
+files[] = ajax_link.module
